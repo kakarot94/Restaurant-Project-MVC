@@ -1,4 +1,4 @@
-Restaurant-Project-MVC
+Restaurant Project using MVC
 ==============
 
 Implementing Model-View-Controller
